@@ -1,1 +1,3 @@
-# gabon-IT128
+Kim Carlo Gabon
+IT128L-FOPI01
+BSIT
